@@ -1,2 +1,12 @@
 # max-zhibo8-lab
-HTML page archive and documentation
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
